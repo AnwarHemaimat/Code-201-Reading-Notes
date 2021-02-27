@@ -4,7 +4,7 @@
 
 ![image](https://emareye.com/mricfiles/uploads/2017/05/Introduction-862x414-2-862x414-min-862x414.png)
 
-## The Structure of This Book
+# The Structure of This Book
 1. HTML
 2. CSS
 3. Practical
@@ -42,5 +42,28 @@ that read out the contents of a
 computer screen to a user. They
 are commonly used by people
 with visual impairments.
+## Devices
+People are accessing websites
+on an increasing range of devices
+including desktop computers,
+laptops, tablets, and mobile
+phones. It is important to
+remember that various devices
+have different screen sizes and
+some have faster connections to
+the web than others.
 
+# How Websites Are Created?
+Small websites are often written
+just using HTML and CSS.
+Larger, more complex sites like
+these may use a database to
+store data, and programming
+languages such as PHP, ASP.Net,
+Java, or Ruby on the web server,
+but you do not need to know
+these technologies to improve
+what the user sees. The skills
+you'll learn in this book should be
+enough to help you on that road.
 
