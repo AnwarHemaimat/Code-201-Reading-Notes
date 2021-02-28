@@ -110,3 +110,22 @@ Structure consists of the mandatory parts of an HTML document plus the semantic 
 An opening tag begins a section of page content, and a closing tag ends it. For example, to markup a section of text as a paragraph, you would open the paragraph with an opening paragraph "tag p tag" and close it with a closing paragraph "tag /p tag".
 (closing tags always proceed the element with a /).
 
+## What Is Attribute ?
+Attributes define additional characteristics or properties of the element such as width and height of an image. Attributes are always specified in the start tag (or opening tag) and usually consists of name/value pairs like name="value". 
+Attribute values should always be enclosed in quotation marks.
+
+# A Summary Of Structure (pp.12-39)
+HTML pages are text documents.
+HTML uses tags (characters that sit inside angled
+brackets) to give the information they surround special
+meaning.
+Tags are often referred to as elements.
+Tags usually come in pairs. The opening tag denotes
+the start of a piece of content; the closing tag denotes
+the end.
+Opening tags can carry attributes, which tell us more
+about the content of that element.
+Attributes require a name and a value.
+To learn HTML you need to know what tags are
+available for you to use, what they do, and where they
+can go.
