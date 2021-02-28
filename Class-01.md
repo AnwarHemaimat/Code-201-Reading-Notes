@@ -127,3 +127,21 @@ about the content of that element.
 * To learn HTML you need to know what tags are
 available for you to use, what they do, and where they
 can go.
+
+# Extra Markup Chapter
+## Specifying different versions of HTML
+![image](https://cdn.educba.com/academy/wp-content/uploads/2019/07/Versions-of-Html.png)
+
+## Let’s see the significance of the individual Versions of Html :
+* HTML 1.0
+* HTML 2
+* HTML 3.2
+* HTML 4.01
+* HTML5
+The latest version of HTML (HTML5) For a developer, it could be used in 2014. It came up with lots of HTML tags support. HTML5 provided support for new form elements like input element s of different types.
+
+# Identifying and grouping elements
+## CSS Identification & Grouping of elements
+Identification of elements is done with class and id properties.
+And grouping is done with div and span properties.
+Identification and grouping of elements is useful when we want to divide our web page into different sections or sub sections.
