@@ -1,4 +1,4 @@
-# A summary of Duckett HTML 
+# A Summary Of Duckett HTML 
 
 ![image](https://i.redd.it/m14hlniqyfz41.jpg)  
 
@@ -67,3 +67,29 @@ what the user sees. The skills
 you'll learn in this book should be
 enough to help you on that road.
 
+# How the Web Works ?
+![image](https://res.cloudinary.com/academind-gmbh/image/upload/f_auto,q_auto/c_limit,dpr_3.0,g_center,w_400/v1/academind.com/content/tutorials/how-the-web-works/how-the-web-works-big-picture)
+1. When you connect to the web,
+you do so via an Internet Service
+Provider (ISP). You type a
+domain name or web address
+into your browser to visit a site.   
+
+2. Your computer contacts a
+network of servers called
+Domain Name System (DNS)
+servers. These act like phone
+books; they tell your computer
+the IP address associated with
+the requested domain name.  
+
+3. The unique number that the
+DNS server returns to your
+computer allows your browser
+to contact the web server
+that hosts the website you
+requested.  
+
+4. The web server then sends the
+page you requested back to your
+web browser.
