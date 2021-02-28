@@ -109,3 +109,4 @@ Structure consists of the mandatory parts of an HTML document plus the semantic 
 
 An opening tag begins a section of page content, and a closing tag ends it. For example, to markup a section of text as a paragraph, you would open the paragraph with an opening paragraph "tag p tag" and close it with a closing paragraph "tag /p tag".
 (closing tags always proceed the element with a /).
+
