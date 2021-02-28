@@ -129,6 +129,7 @@ available for you to use, what they do, and where they
 can go.
 
 # Extra Markup Chapter
+![image](https://slideplayer.com/12052645/69/images/slide_1.jpg)
 ## Specifying different versions of HTML
 ![image](https://cdn.educba.com/academy/wp-content/uploads/2019/07/Versions-of-Html.png)
 
@@ -140,8 +141,18 @@ can go.
 * HTML5
 The latest version of HTML (HTML5) For a developer, it could be used in 2014. It came up with lots of HTML tags support. HTML5 provided support for new form elements like input element s of different types.
 
-# Identifying and grouping elements
+# Identifying And Grouping Elements
 ## CSS Identification & Grouping of elements
 Identification of elements is done with class and id properties.
 And grouping is done with div and span properties.
 Identification and grouping of elements is useful when we want to divide our web page into different sections or sub sections.
+
+# Comments, Meta Information And Iframes
+## What is comment tag in HTML?
+The comment tag is used to insert comments in the source code. Comments are not displayed in the browsers. You can use comments to explain your code, which can help you when you edit the source code at a later date.
+
+## What is meta tag in HTML?
+The "tag meta tag" defines metadata about an HTML document. Metadata is data (information) about data Metadata will not be displayed on the page, but is machine parsable. Metadata is used by browsers (how to display content or reload page), search engines (keywords), and other web services.
+
+## What are iframes in HTML?
+The iframe in HTML stands for Inline Frame. The ” iframe ” tag defines a rectangular region within the document in which the browser can display a separate document, including scrollbars and borders. An inline frame is used to embed another document within the current HTML document.
