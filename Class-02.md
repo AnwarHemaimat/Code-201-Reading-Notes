@@ -151,11 +151,23 @@ JavaScript comes with a set of operators you'd expect from any modern language. 
 ## Decision Making Statements
 Decision Making in programming is similar to decision making in real life.
 A programming language uses control statements to control the flow of execution of the program based on certain conditions.
-JavaScript’s conditional statements are:
+## JavaScript’s conditional statements are:
 1) if
 2) if-else
 3) if…else…if
 4) switch
+
+## Looping Statements
+Looping in programming languages facilitates the execution of a set of instructions/functions repeatedly while some condition evaluates to true.
+For example, suppose we want to print “Hello World” 10 times this is possible with the help of loops.
+There are mainly two types of loops:
+1. Entry Controlled loops: In this type of loops the test condition is tested before entering the loop body. For Loop and While Loop are entry controlled loops.
+2. Exit Controlled Loops: In this type of loops the test condition is tested or evaluated at the end of loop body. Therefore, the loop body will execute atleast once, irrespective of whether the test condition is true or false. do-while loop is exit controlled loop.
+## Following are the types of loops in JavaScript:
+1. while loop
+2. do-while loop
+3. for loop
+4. for…in loop
 
 
 
