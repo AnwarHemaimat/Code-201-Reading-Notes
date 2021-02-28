@@ -93,3 +93,16 @@ requested.
 4. The web server then sends the
 page you requested back to your
 web browser.
+
+# What Is Structure In HTML ?
+Structure consists of the mandatory parts of an HTML document plus the semantic and structured markup of its contents. Presentation is the style you give the content. In most cases presentation is about the way a document looks, but it can also affect how a document sounds – not everybody uses a graphical web browser.
+
+![image](https://stuyhsdesign.files.wordpress.com/2015/09/basic-structure.png)
+
+# HTML Uses Elements To Describe The Structure Of Pages
+## Look at this code, there are several different elements. Each element has an opening tag and a closing tag.
+![image](https://csharpcorner.azureedge.net/UploadFile/75a48f/html-for-beginners/Images/2.PNG)
+
+
+# Opening Tag && Closing Tag
+![image](https://clearlydecoded.com/assets/images/posts/2017-09-04-anatomy-of-html-tag/simple-p-tag.png)
