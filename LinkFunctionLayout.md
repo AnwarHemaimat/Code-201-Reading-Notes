@@ -26,6 +26,7 @@ Text about emailing you "tag /a tag" If you want the email to have a subject lin
 
 ![image](https://i.ytimg.com/vi/dnCLpJR2yKQ/maxresdefault.jpg)
 # Layout
+![image](https://3.bp.blogspot.com/-DaJcbXSYGHg/XBk2Sh0FEtI/AAAAAAAAAWA/7cQ1sw7rvSwXNX7Y-OWiDo7fEoGbnlrGgCLcBGAs/s1600/images%2B%252830%2529.jpeg)
 ## What is layout in HTML?
 HTML layouts provide a way to arrange web pages in well-mannered, well-structured, and in responsive form or we can say that HTML layout specifies a way in which the web pages can be arranged. Web-page layout works with arrangement of visual elements of an HTML document.
 ## What are the 4 basic layout types?
@@ -56,6 +57,7 @@ The float property can have one of the following values: left - The element floa
 Three or more different div can be put side-by-side using CSS. Use CSS property to set the height and width of div and use display property to place div in side-by-side format. float:left; This property is used for those elements(div) that will float on left side.
 
 # Fixed Width Layouts in HTML
+![image](https://www.templatemonster.com/blog/wp-content/uploads/2017/05/fixed-width1.png)
 ## What is fixed width layout?
 A "fixed-width" layout is one in which the layout of the page is contained within a wrapper that doesn't adjust its size when the width of the browser changes. In this how to, you'll learn how to create a 2-column fixed-width layout.
 
@@ -84,3 +86,52 @@ Efficiency — Grids allow designers to quickly add elements to a layout because
 
 ## How do you make a grid in HTML?
 To make an HTML element behave as a grid container, you have to set the display property to grid or inline-grid. Grid containers consist of grid items, placed inside columns and rows.
+
+# Functions
+## What are functions in JavaScript?
+A function in JavaScript is similar to a procedure—a set of statements that performs a task or calculates a value, but for a procedure to qualify as a function, it should take some input and return an output where there is some obvious relationship between the input and the output.
+## How many types of functions are there in JavaScript?
+![image](https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/sites/2/2019/03/JavaScript-function-tutorial.jpg)
+## How do functions work in JavaScript?
+Functions are executed when they are called.   
+Values can be passed into functions and used within the function. Functions always return a value. In JavaScript, if no return value is specified, the function will return undefined.
+
+## Declaring a Function
+![image](https://o.quizlet.com/t5EjZXOZNmCccfll8B28Ww.png)
+
+## Calling a Function
+![image](https://www.devopsschool.com/blog/wp-content/uploads/2020/01/image-28.png)
+
+## How do you return a value from a JavaScript function?
+JavaScript provides for passing one value back to the code that called it after everything in the function that needs to run has finished running. JavaScript passes a value from a function back to the code that called it by using the return statement . The value to be returned is specified in the return keyword.
+
+## Can a function return multiple values?
+A function is not restricted to return a variable, it can return zero, one, two or more values. This is the default property of python to return multiple values/variables which is not available in many other programming languages like C++ or Java.
+
+# Variable Scope
+![image](https://d2h0cx97tjks2p.cloudfront.net/blogs/wp-content/uploads/sites/2/2019/08/JavaScript-Variables.png)
+## What is the variable scope?
+The scope of a variable declared with var is its current execution context and closures thereof, which is either the enclosing function and functions declared within it, or, for variables declared outside any function, global.
+## What are the different scopes in JavaScript?
+There are three types of scope in JavaScript:
+ 1. Global Scope  
+ 2. Function Scope 
+ 3. Block Scope.
+ ![image](https://miro.medium.com/max/2470/1*YWPubaj-_gMWS4jEDVBUfA.png)
+
+ # 6 Reasons for Pair Programming
+ ![image](https://images.ctfassets.net/k428n7s2pxlu/1aJnbCcUvAa4qiIg4kMeI/9c93dd78ff2c7c5ffbff3e14f5878a87/6-reasons-for-pair-programming.jpg)
+ ## What is the purpose of pair programming?
+ Pair programming is an important technique for developing higher quality code, faster while also reducing risk and spreading knowledge in an organization. With pair programming, two software developers work on one computer, collaborating on the same design, algorithm, code, or test.
+ ## How does pair programming work?
+ ![image](https://martinfowler.com/articles/on-pair-programming/benefits_overview.jpg)
+ Pair programming essentially means that two people write code together on one machine. It is a very collaborative way of working and involves a lot of communication. While a pair of developers work on a task together, they do not only write code, they also plan and discuss their work.
+ ## Why pair program?
+ 1. Greater efficiency. It is a common misconception that pair programming takes a lot longer and is less efficient.
+ 2. Engaged collaboration. 
+ 3. Learning from fellow students. 
+ 4. Social skills. 
+ 5. Job interview readiness. 
+ 6. Work environment readiness.
+ ## How effective is pair programming?
+ I've also found that pair programming is most effective in approximately 1.5 to 2.5 hour blocks. Anything much less tends to require too much overhead to setup while much more and the pairs tend to get cranky and tired.
