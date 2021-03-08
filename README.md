@@ -8,3 +8,4 @@
 | Links ,Functions and Layouts | [Class-04](Class-04)
 | HTML Images; CSS Color & Text | [Class-05](Class-05)
 | JS Object Literals; The DOM | [Class-06](Class-06)
+| HTML Tables; JS Constructor Functions | [Class-07](Class-07)
