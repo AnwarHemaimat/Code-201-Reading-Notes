@@ -9,3 +9,5 @@
 | HTML Images; CSS Color & Text | [Class-05](Class-05)
 | JS Object Literals; The DOM | [Class-06](Class-06)
 | HTML Tables; JS Constructor Functions | [Class-07](Class-07)
+| CSS Layout | [Class-08](Class-08)
+| Forms and JS Events | [Class-09](Class-09)
