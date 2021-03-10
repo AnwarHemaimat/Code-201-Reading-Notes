@@ -11,3 +11,4 @@
 | HTML Tables; JS Constructor Functions | [Class-07](Class-07)
 | CSS Layout | [Class-08](Class-08)
 | Forms and JS Events | [Class-09](Class-09)
+| Error Handling & Debugging | [Class-10](Class-10)
