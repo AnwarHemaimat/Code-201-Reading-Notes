@@ -12,3 +12,4 @@
 | CSS Layout | [Class-08](Class-08)
 | Forms and JS Events | [Class-09](Class-09)
 | Error Handling & Debugging | [Class-10](Class-10)
+| Assorted Topics | [Class-11](Class-11)
