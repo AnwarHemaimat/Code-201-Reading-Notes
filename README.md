@@ -16,3 +16,4 @@
 | Chart.js And Canvas | [Class-12](Class-12)
 | Local Storage | [Class-13](Class-13)
 | CSS Transforms, Transitions, and Animations | [Class-14](Class-14)
+| To Build the Perfect Team | [Class-14b](Class-14b)
