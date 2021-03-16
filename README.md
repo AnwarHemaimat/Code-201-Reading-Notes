@@ -15,4 +15,4 @@
 | Assorted Topics | [Class-11](Class-11)
 | Chart.js And Canvas | [Class-12](Class-12)
 | Local Storage | [Class-13](Class-13)
-| Local Storage | [Class-14](Class-14)
+| CSS Transforms, Transitions, and Animations | [Class-14](Class-14)
